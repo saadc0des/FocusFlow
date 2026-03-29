@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0C0C0E</color>
+    <color name="surface">#141417</color>
+    <color name="surface2">#1C1C21</color>
+    <color name="accent">#7C6AFF</color>
+    <color name="accent_green">#4FFFB0</color>
+    <color name="text_primary">#F0F0F5</color>
+    <color name="text_muted">#888899</color>
+    <color name="status_active_bg">#0D2B1F</color>
+    <color name="status_active_text">#4FFFB0</color>
+    <color name="status_inactive_bg">#2B1010</color>
+    <color name="status_inactive_text">#FF6A6A</color>
+    <color name="info_bg">#14141A</color>
+    <!-- Switch colors -->
+    <color name="switch_thumb_on">#7C6AFF</color>
+    <color name="switch_thumb_off">#444455</color>
+    <color name="switch_track_on">#3D3580</color>
+    <color name="switch_track_off">#222230</color>
+</resources>
